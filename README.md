@@ -58,7 +58,7 @@ Selain endpoint `/user/login`, endpoint-endpoint tersebut perlu melewati middlew
 
 Berikut adalah skema DB dari aplikasi
 
-![[scheme-db-ewallet.png]]
+<img src="scheme-db-ewallet.png">
 
 Karena yang dibuat adalah aplikasi sederhana jadi tidak perlu menggunakan banyak tabel agar aplikasi dapat berjalan dengan lancar dan mengurangi resiko bug.
 
